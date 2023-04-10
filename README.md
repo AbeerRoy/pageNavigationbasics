@@ -11,4 +11,12 @@ here two forms of navigation is used
 Fall Back safety is used in main.dart given we used pushedNamed() routes
 1. onGenerateRoute and unKnownroute
 
+For ease of access  
+1. TapBar 
+2. Drawer
+
+Use of filter using boolean and change state of the program data
+add a favourite list
+
+
   
